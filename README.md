@@ -25,6 +25,7 @@ The analysis was performed primarily in **Microsoft Excel*, and an interactive *
 
 - **Dataset Name**: Bank Marketing (bank-additional-full)
 - **Total Records**: 41,176 customers after removing 12 duplicates
+- **Total columns**: 18 columns, plus the derived column created(Call duration categories)
 - **Target Variable**: `y` (Subscription: "yes" / "no")
 - **Total Subscriptions**: 4,639
 - **Overall Subscription Rate**: **11.27%**
